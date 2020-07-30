@@ -1,4 +1,24 @@
-### Hi there 👋
+<p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/assets/img/logo-cropped.svg" width="500px"></img></a></p>
+<h1 align="center">👋 I'm Unixfy. Nice to meet you.</h1>
+<h3 align="center">A passionate American sysadmin and web dev. IT is just my hobby.</h3>
+
+### 🔧 Tools and skills
+- <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="20" height="20"/> Amazon Web Services
+- <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="20" height="20"/> WordPress
+- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> Linux
+  - Apache
+  - Nginx
+- <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="linux" width="20" height="20"/> Windows (Server)
+  - Active Directory
+  - Veeam AS
+- <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstra" width="20" height="20"/> Bootstrap
+- <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker
+
+
+### 📫 Let's get in touch
+Shoot me an email at <b>alex [at] unixfy.me</b>. <i>No spam or marketing please!</i> Alternately, add me on Discord at <b>Unixfy#3061</b>.
+
+### 🏢 Find me online at <a href="https://unixfy.net" target="_blank">unixfy.net</a>.
 
 <!--
 **unixfy/unixfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
