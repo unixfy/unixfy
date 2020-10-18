@@ -4,6 +4,7 @@
 
 ### 🔧 Tools and skills
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" alt="apache" width="20" height="20"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows-server" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20"/> 
+<img src="http://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="node" width="20" height="20"/> 
 
 
 ### 📫 Let's get in touch
