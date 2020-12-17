@@ -8,7 +8,7 @@
 
 
 ### 📫 Let's get in touch
-Shoot me an email at <b>alex [at] unixfy.net</b>. <i>No spam or marketing please!</i> Alternately, add me on Discord at <b>Unixfy#3061</b>.
+Shoot me an email at <b>alex [at] unixfy.net</b>. <i>No spam or marketing please!</i> Alternately, add me on Discord at <b>Unixfy#1337</b>.
 
 ### 🏢 Find me online at <a href="https://unixfy.net" target="_blank">unixfy.net</a>.
 
