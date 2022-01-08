@@ -1,4 +1,4 @@
-<p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/assets/img/logo-cropped.svg" width="500px"></img></a></p>
+<p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/images/logo-cropped.svg" width="500px"></img></a></p>
 <h1 align="center">👋 I'm Unixfy. Nice to meet you.</h1>
 <h3 align="center">A passionate hobbyist American sysadmin and web dev.</h3>
 
