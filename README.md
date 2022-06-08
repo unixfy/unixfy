@@ -49,25 +49,25 @@
 
 ### 🏢 Find me online
 
-- [unixfy.net](https://unixfy.net)
-- [alex-wang.net](https://alex-wang.net)
+[![unixfy.net](https://img.shields.io/badge/projects-unixfy.net-7E1F86?style=for-the-badge)](https://unixfy.net)
+[![alex-wang.net](https://img.shields.io/badge/personal-alex--wang.net-7E1F86?style=for-the-badge)](https://alex-wang.net)
 
 ### 📈 My GitHub stats
 
 ![Unixfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=unixfy&show_icons=true&count_private=true&theme=vue)
 
-<details>
-  <summary><b>✨ More cool stats</b> (a lot of content, be warned!)</summary>
-  
-  ### ☑ Todoist stats
-  
-  <!-- TODO-IST:START -->
+### ☑ My Todoist stats
+
+<!-- TODO-IST:START -->
 🏆  40,630 Karma Points           
 🌸  Completed 4 tasks today           
 🗓  Completed 23 tasks this week           
 ✅  Completed 9,748 tasks so far           
 ⏳  Longest streak is 326 days
 <!-- TODO-IST:END -->
+
+<details>
+  <summary><b>✨ More cool stats</b> (a lot of content, be warned!)</summary>
   
   ### 🤔 GitHub metrics
   
