@@ -1,6 +1,8 @@
 <p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/images/logo-cropped.svg" width="500px"></img></a></p>
 <h1 align="center">👋 I'm Unixfy. Nice to meet you.</h1>
-<h3 align="center">A passionate hobbyist American sysadmin and web dev.</h3>
+<h3 align="center">A passionate sysadmin and full-stack web developer.</h3>
+
+<br>
 
 ### 🔧 Tools and skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows-server" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20"/> 
