@@ -22,6 +22,10 @@ Shoot me an email at <b>alex [at] unixfy.net</b>. <i>No spam or marketing please
 
 ### 🏢 Find me online at <a href="https://unixfy.net" target="_blank">unixfy.net</a>.
 
+### 🎧 What I'm listening to
+
+![Unixfy's Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gs18h5me2kh3s0o8rbp2kj1xi&count=6&unique=true)
+
 <!--
 **unixfy/unixfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
