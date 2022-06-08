@@ -58,6 +58,7 @@
 
 <details>
   <summary><b>✨ More cool stats</b> (a lot of content, be warned!)</summary>
+  
   ### ☑ Todoist stats
   
   <!-- TODO-IST:START -->
