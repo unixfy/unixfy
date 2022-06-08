@@ -14,6 +14,7 @@
 
 ![Unixfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=unixfy&show_icons=true&count_private=true&theme=vue)
 
+![Unixfy's CodersRank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=unixfy&height=100)
 
 
 ### 📫 Let's get in touch
