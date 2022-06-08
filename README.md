@@ -3,7 +3,7 @@
 <h3 align="center">A passionate sysadmin and full-stack web developer.</h3>
 <br>
 
-## 😀 About me
+### 😀 About me
 
 - ✌ I'm a student at the **University of Southern California**, pursuing a BA in Intelligence & Cyber Operations and a BS in Industrial & Systems Engineering
 - 🌐 I'm in **Los Angeles, CA**  and **Detroit, MI**
@@ -11,7 +11,7 @@
 - 😍 I love **Svelte**, **food**, **travel**, and **learning**!
 - 🌟 Fun fact: I'm a devout **Swiftie**
 
-## 🔧 Things I know
+### 🔧 Things I know
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
@@ -42,6 +42,15 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### 📫 Let's get in touch
+
+- ✉ Shoot me an email at **alex [at] unixfy.net** (_No spam or marketing please!_)
+- 💭 [Add me on Discord](https://unixfy.net/discord)
+
+### 🏢 Find me online
+
+- [unixfy.net](https://unixfy.net)
+- [alex-wang.net](https://alex-wang.net)
 
 ### 📈 My GitHub stats
 
@@ -49,11 +58,6 @@
 
 ![Unixfy's CodersRank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=unixfy&height=100)
 
-
-### 📫 Let's get in touch
-Shoot me an email at <b>alex [at] unixfy.net</b>. <i>No spam or marketing please!</i> Alternately, add me on Discord at <b>Unixfy#1337</b>.
-
-### 🏢 Find me online at <a href="https://unixfy.net" target="_blank">unixfy.net</a>.
 
 ### 🎧 What I'm listening to
 
