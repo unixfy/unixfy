@@ -50,7 +50,7 @@
 ### 🏢 Find me online
 
 [![unixfy.net](https://img.shields.io/badge/projects-unixfy.net-7E1F86?style=for-the-badge)](https://unixfy.net)
-[![alex-wang.net](https://img.shields.io/badge/personal-alex--wang.net-7E1F86?style=for-the-badge)](https://alex-wang.net)
+[![alexwang.net](https://img.shields.io/badge/personal-alexwang.net-7E1F86?style=for-the-badge)](https://alexwang.net)
 
 ### 📈 My GitHub stats
 
