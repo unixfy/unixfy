@@ -79,7 +79,7 @@
 
   ### 🎧 What I'm listening to
 
-  ![Unixfy's Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1gdfxka42cxec38us4i10s07p&count=6&unique=true&width=1000)
+  ![Unixfy's Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fx6745xfscvyria5emktjfl7gu&count=6&unique=true&width=1000)
 
 </details>
 
