@@ -3,7 +3,7 @@ name: Todoist Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every minute
+    # Runs every 5 minute
     - cron: "*/5 * * * *"
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: unixfy/todoist-readme@master
+      - uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: true
