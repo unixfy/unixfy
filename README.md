@@ -1,6 +1,6 @@
 <p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/images/logo-cropped.svg" width="400px"></img></a></p>
 <h1 align="center">👋 I'm Alex, aka Unixfy. Nice to meet you.</h1>
-<h3 align="center">Industrial engineer, public public policy nerd, transportation enthusiast, web developer</h3>
+<h3 align="center">Industrial engineer, public policy nerd, transportation enthusiast, web developer</h3>
 <br>
 
 ### 😀 About me
