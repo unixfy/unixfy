@@ -1,15 +1,15 @@
 <p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/images/logo-cropped.svg" width="400px"></img></a></p>
 <h1 align="center">👋 I'm Alex, aka Unixfy. Nice to meet you.</h1>
-<h3 align="center">A passionate sysadmin and full-stack web developer.</h3>
+<h3 align="center">Industrial engineer, public public policy nerd, transportation enthusiast, web developer</h3>
 <br>
 
 ### 😀 About me
 
-- ✌ I'm a student at the **University of Southern California**, pursuing a BA in Intelligence & Cyber Operations and a BS in Industrial & Systems Engineering
+- ✌ I'm a student at the **University of Southern California**, pursuing a BS in Industrial & Systems Engineering and Master of Public Policy
 - 🌐 I'm in **Los Angeles, CA**  and **Detroit, MI**
-- 🌱 I'm currently learning **Kubernetes** + much more
-- 😍 I love **Svelte**, **food**, **travel**, and **learning**!
+- 😍 I love **Svelte**, **food**, **travel**, **running**, and **learning**!
 - 🌟 Fun fact: I'm a devout **Swiftie**
+- 🚀 **See what I'm up to now**: https://alexwang.net/now
 
 <details>
   <summary><h3>🔧 Things I know & use</h3></summary>
@@ -44,7 +44,7 @@
 
 ### 📫 Let's get in touch
 
-- ✉ Shoot me an email at **alex [at] unixfy.net** (_No spam or marketing please!_)
+- ✉ Shoot me an email at **alex [at] alexwang.net** (_No spam or marketing please!_)
 - 💭 [Add me on Discord](https://unixfy.net/discord)
 
 ### 🏢 Find me online
