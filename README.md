@@ -63,7 +63,7 @@
 🌸  Completed **3** tasks today           
 🗓  Completed **18** tasks this week           
 ✅  Completed **19,217** tasks so far           
-⏳  Longest streak is **819** days
+⏳  Longest streak is **820** days
 <!-- TODO-IST:END -->
 
 <details>
