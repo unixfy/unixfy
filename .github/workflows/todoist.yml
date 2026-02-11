@@ -12,9 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-        with:
-          repository: 'unixfy/todoist-readme'
-          ref: 'master'
       
       - uses: unixfy/todoist-readme@master
         with:
