@@ -52,10 +52,6 @@
 [![unixfy.net](https://img.shields.io/badge/projects-unixfy.net-7E1F86?style=for-the-badge)](https://unixfy.net)
 [![alexwang.net](https://img.shields.io/badge/personal-alexwang.net-7E1F86?style=for-the-badge)](https://alexwang.net)
 
-### 📈 My GitHub stats
-
-![Unixfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=unixfy&show_icons=true&count_private=true&theme=vue)
-
 ### ☑ My Todoist stats
 
 <!-- TODO-IST:START -->
@@ -65,19 +61,6 @@
 ✅  Completed **22,757** tasks so far           
 ⏳  Longest streak is **988** days
 <!-- TODO-IST:END -->
-
-<details>
-  <summary><b>✨ More cool stats</b> (a lot of content, be warned!)</summary>
-  
-  ### 🎖 CodersRank
-  
-  [![Unixfy's CodersRank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=unixfy&height=100)](https://profile.codersrank.io/user/unixfy/)
-
-  ### 🎧 What I'm listening to
-
-  ![Unixfy's Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fx6745xfscvyria5emktjfl7gu&count=6&unique=true&width=1000)
-
-</details>
 
 <!--
 **unixfy/unixfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
