@@ -55,10 +55,10 @@
 ### ☑ My Todoist stats
 
 <!-- TODO-IST:START -->
-🏆  **59,849** Karma Points           
-🌸  Completed **2** tasks today           
-🗓  Completed **2** tasks this week           
-✅  Completed **23,670** tasks so far           
+🏆  **59,851** Karma Points           
+🌸  Completed **4** tasks today           
+🗓  Completed **4** tasks this week           
+✅  Completed **23,672** tasks so far           
 ⏳  Longest streak is **988** days
 <!-- TODO-IST:END -->
 
