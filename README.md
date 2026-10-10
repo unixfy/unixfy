@@ -5,10 +5,9 @@
 
 ### 😀 About me
 
-- ✌ I'm a student at the **University of Southern California**, pursuing a BS in Industrial & Systems Engineering and Master of Public Policy
+- ✌ I earned my bachelor's and master's in Industrial & Systems Engineering and Public Policy at the **University of Southern California**
 - 🌐 I'm in **Los Angeles, CA**  and **Detroit, MI**
 - 😍 I love **Svelte**, **food**, **travel**, **running**, and **learning**!
-- 🌟 Fun fact: I'm a devout **Swiftie**
 - 🚀 **See what I'm up to now**: https://alexwang.net/now
 
 <details>
