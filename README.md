@@ -1,11 +1,10 @@
-<p align="center"><a href="https://unixfy.net" target="_blank"><img src="https://unixfy.net/images/logo-cropped.svg" width="400px"></img></a></p>
-<h1 align="center">👋 I'm Alex, aka Unixfy. Nice to meet you.</h1>
+<h1 align="center">👋 I'm Alex, nice to meet you!</h1>
 <h3 align="center">Industrial engineer, public policy nerd, transportation enthusiast, web developer</h3>
 <br>
 
 ### 😀 About me
 
-- ✌ I earned my bachelor's and master's in Industrial & Systems Engineering and Public Policy at the **University of Southern California**
+- ✌ I earned my Bachelor's in Industrial & Systems Engineering and Master of Public Policy from the **University of Southern California**
 - 🌐 I'm in **Los Angeles, CA**  and **Detroit, MI**
 - 😍 I love **Svelte**, **food**, **travel**, **running**, and **learning**!
 - 🚀 **See what I'm up to now**: https://alexwang.net/now
@@ -48,7 +47,6 @@
 
 ### 🏢 Find me online
 
-[![unixfy.net](https://img.shields.io/badge/projects-unixfy.net-7E1F86?style=for-the-badge)](https://unixfy.net)
 [![alexwang.net](https://img.shields.io/badge/personal-alexwang.net-7E1F86?style=for-the-badge)](https://alexwang.net)
 
 ### ☑ My Todoist stats
